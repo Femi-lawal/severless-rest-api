@@ -1,0 +1,20 @@
+{
+  "name": "severless-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://femi-lawal:16b0a7ff5fa39b0123cdabab70c2afbab111a6fb@github.com/Femi-lawal/severless-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Femi-lawal/severless-rest-api/issues"
+  },
+  "homepage": "https://github.com/Femi-lawal/severless-rest-api#readme"
+}
