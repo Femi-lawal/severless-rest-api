@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Femi-lawal/severless-rest-api/issues"
   },
-  "homepage": "https://github.com/Femi-lawal/severless-rest-api#readme"
+  "homepage": "https://github.com/Femi-lawal/severless-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serverless-http": "^2.6.0"
+  }
 }
