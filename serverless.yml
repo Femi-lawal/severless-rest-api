@@ -1,4 +1,7 @@
-service: severless-rest-api
+service: service-severless-rest-api
+
+custom:
+  tableName: 'users-table-${self:provider.stage}'
 
 provider:
   name: aws
