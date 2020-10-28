@@ -18,6 +18,9 @@
     },
     "homepage": "https://github.com/Femi-lawal/severless-rest-api#readme",
     "dependencies": {
+        "@types/node": "^14.14.5",
+        "aws-sdk": "^2.780.0",
+        "body-parser": "^1.19.0",
         "express": "^4.17.1",
         "serverless-http": "^2.6.0"
     }
